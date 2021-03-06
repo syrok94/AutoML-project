@@ -10,12 +10,19 @@ from HyperParameterTuning.HyperParameterTuning import HyperParameterTuning
 from sklearn.metrics import plot_confusion_matrix,plot_precision_recall_curve,plot_roc_curve
 import os
 from application_logging.logger import app_logger
+from file_operations.File_Operation import saving_file
+
+
+
 class Training:
     def __init__(self,path):
         self.path=path
         self.cwd=os.getcwd()
         self.file_object=open("trainingLOG/train_log.txt","a+")
         self.app_logger=app_logger()
+        self.saving_file=saving_file()
+
+
     def train_model(self):
         #self.path=path
         self.app_logger.log(self.file_object,"training started!!")
@@ -60,6 +67,10 @@ class Training:
         naive_clf.fit(x_train, y_train)
         naive_predict = naive_clf.predict(x_test)
 
+        self.app_logger.log(self.file_object,"saving naive model")
+
+        self.saving_file.save_file(naive_clf,"models/naiveModel")
+        self.app_logger.log(self.file_object, "naive model saved!")
 
         self.app_logger.log(self.file_object, "fitting best parameter for decision tree model")
         dt_clf = DecisionTreeClassifier(criterion=best_param_dt_clf['criterion'],
@@ -69,6 +80,11 @@ class Training:
                                         splitter=best_param_dt_clf['splitter'])
         dt_clf.fit(x_train, y_train)
         dt_predict = dt_clf.predict(x_test)
+
+        self.app_logger.log(self.file_object, "saving decisiontree model")
+
+        self.saving_file.save_file(dt_clf, "models/decisionTree")
+        self.app_logger.log(self.file_object, "decisiontree model saved!")
 
         self.app_logger.log(self.file_object, "stacking best parameter of decision tree and naive model")
         meta_input = np.stack((naive_predict, dt_predict), axis=-1)
@@ -103,7 +119,7 @@ class Training:
         plt.savefig("plot_confusion_matrix")
         #plt.title("plot_confusion_matrix")
 
-
+        self.app_logger.log(self.file_object, "Training Completed!!")
 
 
 

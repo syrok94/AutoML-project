@@ -12,3 +12,45 @@
 2021-03-04	13:20:35		hyperparameter tunning of random fores model completd!
 2021-03-04	13:20:35		fitting tunned parameter to tuned model
 2021-03-04	13:20:40		best parameter for random forest model stored!
+2021-03-06	17:52:47		hyperparamter tunning of naive model started!
+2021-03-06	17:52:47		hyperparamter tunning of naive model completed!
+2021-03-06	17:52:47		fitting tunned parameter to tunned model to get best paramrter
+2021-03-06	17:52:50		training of tunned model completed!
+2021-03-06	17:52:50		best parameter for naive model is stored!
+2021-03-06	17:52:50		hyperparamter tunning of decision tree model started!
+2021-03-06	17:52:50		hyperparamter tunning of decision tree model completed!
+2021-03-06	17:52:50		fitting tuned parameters to tunned model
+2021-03-06	17:52:50		training of tunned model completed!
+2021-03-06	17:52:50		best parameter for decision tree model stored!
+2021-03-06	17:52:50		hyperparamter tunning of random forest model started!
+2021-03-06	17:52:50		hyperparameter tunning of random fores model completd!
+2021-03-06	17:52:50		fitting tunned parameter to tuned model
+2021-03-06	17:52:55		best parameter for random forest model stored!
+2021-03-06	17:55:01		hyperparamter tunning of naive model started!
+2021-03-06	17:55:01		hyperparamter tunning of naive model completed!
+2021-03-06	17:55:01		fitting tunned parameter to tunned model to get best paramrter
+2021-03-06	17:55:05		training of tunned model completed!
+2021-03-06	17:55:05		best parameter for naive model is stored!
+2021-03-06	17:55:05		hyperparamter tunning of decision tree model started!
+2021-03-06	17:55:05		hyperparamter tunning of decision tree model completed!
+2021-03-06	17:55:05		fitting tuned parameters to tunned model
+2021-03-06	17:55:06		training of tunned model completed!
+2021-03-06	17:55:06		best parameter for decision tree model stored!
+2021-03-06	17:55:07		hyperparamter tunning of random forest model started!
+2021-03-06	17:55:07		hyperparameter tunning of random fores model completd!
+2021-03-06	17:55:07		fitting tunned parameter to tuned model
+2021-03-06	17:55:13		best parameter for random forest model stored!
+2021-03-06	17:55:03		hyperparamter tunning of naive model started!
+2021-03-06	17:55:03		hyperparamter tunning of naive model completed!
+2021-03-06	17:55:03		fitting tunned parameter to tunned model to get best paramrter
+2021-03-06	17:55:05		training of tunned model completed!
+2021-03-06	17:55:05		best parameter for naive model is stored!
+2021-03-06	17:55:05		hyperparamter tunning of decision tree model started!
+2021-03-06	17:55:05		hyperparamter tunning of decision tree model completed!
+2021-03-06	17:55:05		fitting tuned parameters to tunned model
+2021-03-06	17:55:07		training of tunned model completed!
+2021-03-06	17:55:07		best parameter for decision tree model stored!
+2021-03-06	17:55:07		hyperparamter tunning of random forest model started!
+2021-03-06	17:55:07		hyperparameter tunning of random fores model completd!
+2021-03-06	17:55:07		fitting tunned parameter to tuned model
+2021-03-06	17:55:17		best parameter for random forest model stored!

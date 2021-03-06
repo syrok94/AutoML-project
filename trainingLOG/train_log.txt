@@ -30,3 +30,63 @@
 2021-03-04	13:20:35		fitting best parameter for decision tree model
 2021-03-04	13:20:35		stacking best parameter of decision tree and naive model
 2021-03-04	13:20:40		fitting best paramrter to stacked model
+2021-03-06	17:52:46		training started!!
+2021-03-06	17:52:46		reading csv data
+2021-03-06	17:52:46		checking for null values
+2021-03-06	17:52:46		imputing null values
+2021-03-06	17:52:46		seperating feature and target data column
+2021-03-06	17:52:46		applying over sampling of data
+2021-03-06	17:52:47		removing columns with zero variance
+2021-03-06	17:52:47		appling train test split function on whole data set
+2021-03-06	17:52:47		again applying train test split on 50% of data
+2021-03-06	17:52:47		Hyperparameter tunning started!!
+2021-03-06	17:52:47		getting best parameter for naive bayes model
+2021-03-06	17:52:50		getting best parameter for decision tree model
+2021-03-06	17:52:50		fitting best parameter for naive bayes model
+2021-03-06	17:52:50		saving naive model
+2021-03-06	17:52:50		naive model saved!
+2021-03-06	17:52:50		fitting best parameter for decision tree model
+2021-03-06	17:52:50		saving decisiontree model
+2021-03-06	17:52:50		decisiontree model saved!
+2021-03-06	17:52:50		stacking best parameter of decision tree and naive model
+2021-03-06	17:52:55		fitting best paramrter to stacked model
+2021-03-06	17:55:01		training started!!
+2021-03-06	17:55:01		reading csv data
+2021-03-06	17:55:01		checking for null values
+2021-03-06	17:55:01		imputing null values
+2021-03-06	17:55:01		seperating feature and target data column
+2021-03-06	17:55:01		applying over sampling of data
+2021-03-06	17:55:01		removing columns with zero variance
+2021-03-06	17:55:01		appling train test split function on whole data set
+2021-03-06	17:55:01		again applying train test split on 50% of data
+2021-03-06	17:55:01		Hyperparameter tunning started!!
+2021-03-06	17:55:01		getting best parameter for naive bayes model
+2021-03-06	17:55:05		getting best parameter for decision tree model
+2021-03-06	17:55:06		fitting best parameter for naive bayes model
+2021-03-06	17:55:06		saving naive model
+2021-03-06	17:55:06		naive model saved!
+2021-03-06	17:55:06		fitting best parameter for decision tree model
+2021-03-06	17:55:06		saving decisiontree model
+2021-03-06	17:55:07		decisiontree model saved!
+2021-03-06	17:55:07		stacking best parameter of decision tree and naive model
+2021-03-06	17:55:13		fitting best paramrter to stacked model
+2021-03-06	17:55:02		training started!!
+2021-03-06	17:55:02		reading csv data
+2021-03-06	17:55:02		checking for null values
+2021-03-06	17:55:02		imputing null values
+2021-03-06	17:55:02		seperating feature and target data column
+2021-03-06	17:55:02		applying over sampling of data
+2021-03-06	17:55:03		removing columns with zero variance
+2021-03-06	17:55:03		appling train test split function on whole data set
+2021-03-06	17:55:03		again applying train test split on 50% of data
+2021-03-06	17:55:03		Hyperparameter tunning started!!
+2021-03-06	17:55:03		getting best parameter for naive bayes model
+2021-03-06	17:55:05		getting best parameter for decision tree model
+2021-03-06	17:55:07		fitting best parameter for naive bayes model
+2021-03-06	17:55:07		saving naive model
+2021-03-06	17:55:07		naive model saved!
+2021-03-06	17:55:07		fitting best parameter for decision tree model
+2021-03-06	17:55:07		saving decisiontree model
+2021-03-06	17:55:07		decisiontree model saved!
+2021-03-06	17:55:07		stacking best parameter of decision tree and naive model
+2021-03-06	17:55:17		fitting best paramrter to stacked model

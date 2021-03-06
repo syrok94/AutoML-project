@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba4888f-13d4-4a7c-a0f2-ee7e23b5fa55" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainingFile/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainingFile/training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_operations/File_Operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/File_Operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_confusion_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/plot_confusion_matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_roc_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/plot_roc_curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/precision_recall_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/precision_recall_curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingLOG/hyperparameter_tunning_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trainingLOG/hyperparameter_tunning_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingLOG/train_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trainingLOG/train_log.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -151,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615029225917</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1615029428254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615029428254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
