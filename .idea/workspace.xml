@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba4888f-13d4-4a7c-a0f2-ee7e23b5fa55" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/Diabetic/HyperParameterTuning/HyperParameterTuning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/TrainingFile/training.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/application_logging/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/null_count.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/over_sampling_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/pima-indians-diabetes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/plot_confusion_matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/plot_roc_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/precision_recall_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/preprocessing_file/preprocess.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/trainingLOG/hyperparameter_tunning_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetic/trainingLOG/train_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/File_Operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/File_Operation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +24,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="syrok94" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="AutoML-project" />
+  </component>
   <component name="ProjectId" id="1oexL8fYrRC8nZ2BjooUAowIWmd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -145,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614966373904</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1615029151822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615029151822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1615029225917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615029225917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +159,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
