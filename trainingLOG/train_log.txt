@@ -1,0 +1,32 @@
+2021-03-04	12:06:57		training started!!2021-03-04	12:06:57		reading csv data2021-03-04	12:06:57		checking for null values2021-03-04	12:06:57		imputing null values2021-03-04	12:06:57		seperating feature and target data column2021-03-04	12:06:57		applying over sampling of data2021-03-04	12:07:02		removing columns with zero variance2021-03-04	12:07:02		appling train test split function on whole data set2021-03-04	12:07:02		again applying train test split on 50% of data2021-03-04	12:07:02		Hyperparameter tunning started!!2021-03-04	12:07:02		getting best parameter for naive bayes model2021-03-04	12:07:19		getting best parameter for decision tree model2021-03-04	12:07:20		fitting best parameter for naive bayes model2021-03-04	12:07:21		fitting best parameter for decision tree model2021-03-04	12:07:21		stacking best parameter of decision tree and naive model2021-03-04	12:07:31		fitting best paramrter to stacked model2021-03-04	12:09:29		training started!!
+2021-03-04	12:09:29		reading csv data
+2021-03-04	12:09:29		checking for null values
+2021-03-04	12:09:29		imputing null values
+2021-03-04	12:09:29		seperating feature and target data column
+2021-03-04	12:09:29		applying over sampling of data
+2021-03-04	12:09:35		removing columns with zero variance
+2021-03-04	12:09:35		appling train test split function on whole data set
+2021-03-04	12:09:35		again applying train test split on 50% of data
+2021-03-04	12:09:35		Hyperparameter tunning started!!
+2021-03-04	12:09:35		getting best parameter for naive bayes model
+2021-03-04	12:09:40		getting best parameter for decision tree model
+2021-03-04	12:09:42		fitting best parameter for naive bayes model
+2021-03-04	12:09:42		fitting best parameter for decision tree model
+2021-03-04	12:09:42		stacking best parameter of decision tree and naive model
+2021-03-04	12:09:53		fitting best paramrter to stacked model
+2021-03-04	13:20:30		training started!!
+2021-03-04	13:20:30		reading csv data
+2021-03-04	13:20:30		checking for null values
+2021-03-04	13:20:30		imputing null values
+2021-03-04	13:20:31		seperating feature and target data column
+2021-03-04	13:20:31		applying over sampling of data
+2021-03-04	13:20:31		removing columns with zero variance
+2021-03-04	13:20:31		appling train test split function on whole data set
+2021-03-04	13:20:31		again applying train test split on 50% of data
+2021-03-04	13:20:31		Hyperparameter tunning started!!
+2021-03-04	13:20:31		getting best parameter for naive bayes model
+2021-03-04	13:20:34		getting best parameter for decision tree model
+2021-03-04	13:20:35		fitting best parameter for naive bayes model
+2021-03-04	13:20:35		fitting best parameter for decision tree model
+2021-03-04	13:20:35		stacking best parameter of decision tree and naive model
+2021-03-04	13:20:40		fitting best paramrter to stacked model
