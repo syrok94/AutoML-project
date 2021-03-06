@@ -13,3 +13,5 @@ class saving_file:
             with open(file_path+"/"+str(self.model)+".pickle","wb") as f:
                 pickle.dump(self.model,f)
 
+        except Exception as e:
+            raise e
